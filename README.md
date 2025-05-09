@@ -3,4 +3,4 @@
 ## Hola mundo
 
 
-git show <commit-hash>:<Hola.rar>
+git commit -m "Añadir archivo Hola.rar"
