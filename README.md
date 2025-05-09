@@ -3,4 +3,4 @@
 ## Hola mundo
 
 
-git show <commit-hash>:<hola.rar>
+git show <commit-hash>:<Hola.rar>
